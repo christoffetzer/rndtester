@@ -4,9 +4,7 @@ name = "rndtester"
 version = "0.0.1"
 authors = ["Christof Fetzer"]
 
-description = "A simple iterator to simplify random testing of programs.
-The intention is to use the code in class and for task assignments.
-Not intended for any other use."
+description = "A simple iterator to simplify random testing of programs. The intention is to use the code in class and for task assignments. Not intended for any other use."
 
 documentation = "https://github.com/christoffetzer/rndtester"
 homepage = "https://github.com/christoffetzer/rndtester"
@@ -16,4 +14,4 @@ keywords = ["testing", "post-condition"]
 license = "Unlicensed"
 
 [lib]
-name = "sort"
+name = "rndtester"
